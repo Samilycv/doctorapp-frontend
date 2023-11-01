@@ -1,0 +1,25 @@
+.card{
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    height: 600px;
+    border: 4px ridge wheat;
+    border-radius: 20px;
+}
+.img{
+    height: 200px; 
+    border-radius: 20px;
+    border: 2px ridge white;
+}
+img:hover{
+    border:none;
+}
+.head{
+    color: rgb(59, 32, 32);
+}
+.text{
+    color: rgb(141, 23, 29);
+}
+.text:hover{
+    color: white;
+}
